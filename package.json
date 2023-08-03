@@ -1,0 +1,15 @@
+{
+  "name": "changelog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "change.js",
+  "scripts": {
+    "dev": "node change.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.9"
+  }
+}

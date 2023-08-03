@@ -1,0 +1,61 @@
+### Features
+
+* 看板嵌出交互优化 ([201f45c](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/201f45c0152a473aa768d0a36fb771fa27dfccc1))
+* 维度趋势表单指标时,指标名显示在corner ([9dc4078](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/9dc4078cdc40084bdf832e3e5f0b2a91a79ce3b0))
+
+
+### Bug Fixes
+
+* tree hover加背景色 ([e086dae](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/e086daeafa769755cab2b4871be9526f6c8b9538))
+* 同环比弹窗按新UI修改 ([2c35dac](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/2c35dac32bd0e1d3b09ff9477c21e50995ebf65a))
+* 数据集字段搜索重置 ([3fc4391](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/3fc439115d2cba8819fc515e0fbdbf132e3cf98f))
+* 默认值问题 ([4dd9d5e](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/4dd9d5e771f6e8a65d6edbcd1c9062cfac7811a4))
+
+### Features
+
+* 透视表数据查询逻辑修改 ([b63d06b](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/b63d06bdeeb0e62d91ee59c8ec10799e149e3d75))
+
+
+### Bug Fixes
+
+* 数据集字段配置,字段搜索不展示层级结构 ([3919c50](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/3919c504df90973f655cdfaacd166cb7a0bd1c3f))
+
+### Features
+
+* 按类型添加筛选器 ([73ae136](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/73ae13667ee1f01191a82910d485b3fd04bea312))
+* 按数据集关联树形结构 ([5b15d4b](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/5b15d4be6a2e52761c4208ae7488b68db99a36e2))
+* 插入所有字段 ([8ec0ea0](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/8ec0ea000eb63f442de0ecce6173d1dbf9b65308))
+* 合并主分支代码 ([064308f](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/064308fec5ee538dd09efc9bd74389f20cf83d2e))
+* 合并dev分支 ([3905c57](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/3905c5777ea23e0ac47a468bf9454b0670de33df))
+* 看板数据集下拉添加tooltip提示 ([daeaeed](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/daeaeeda200c910c52a04030d029fe8becbfe330))
+* 看板数据集选择框添加tooltip提示 ([5e38a70](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/5e38a70ba0f6734f3591871b4023c2278dc4404e))
+* 空值校验 ([7c86cf1](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/7c86cf1013c1f7ee39076dcc21c5371d1c624499))
+* 类型定义 ([b92240c](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/b92240ccb9f4c83723722f7061b7f363d8dbff15))
+* 数据集加速状态列表分页器替换 ([7f1032c](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/7f1032c5afba5b31de45c756fa19e2d0fabae122))
+* 完成了FieldTable的grid布局更改 ([c89bae8](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/c89bae825ec1bf38985e91d01be5dce53d5e945f))
+* 修复了批量修改时表头固定时的bug ([7c788b2](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/7c788b2d31bb7f70e2feaa07882fd3f78ba1506e))
+* 修改了common状态下的图表间距 ([89da8b4](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/89da8b4ca92833b25c86186da30fdf2f43159d31))
+* 选择筛选器UI ([4fac276](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/4fac27685cc80a17da19b30ebc00668202bcaa9e))
+* 指标卡同环比支持默认条件格式 ([f680565](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/f6805659f10d4ec8d3496217c7a094730bd833e4))
+* 重构 FilterGroup ([9e5c63e](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/9e5c63e5862610b37d1e641a49a07111559ecde6))
+* 重构筛选组 ([fe3b245](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/fe3b245638db8b339c11f67dd9338b69c9ec4c0d))
+* 重构筛选组流程 ([1908e5d](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/1908e5d9f1c28105b6cb467db0309e98dd07824b))
+* 重命名变量 ([207c761](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/207c761d6463ce6b4f65c103498cdb35a5615be3))
+* relatedByDataset -> relatedCharts ([52565a2](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/52565a2b6afc590f231d22d1594fbfb6475b706b))
+
+
+### Bug Fixes
+
+* 调整辅助线标签的位置以避免超出画布 ([fa9b3ff](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/fa9b3ff277fb491bb7f14ef14348ad96d7c5ffcf))
+* 计算字段表达式错误处理 ([eb42c9a](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/eb42c9ac76932d4eaa7713eeb246550daab813f8))
+* 列表页看板展示逻辑 ([3920c14](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/3920c14bd2f6a5baaf65464fc17a42ceedf20a55))
+* 明细表批量设置好触发请求 ([6afa3bd](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/6afa3bd2142dba1d52ca3f573cbfbec927ab7cf1))
+* 批量设置不更新问题 ([57dfad2](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/57dfad24998df7e10f872c628c0e0e9e7a4f1c62))
+* 批量设置对齐问题 ([2ee8a68](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/2ee8a68b9f27ed4f630b8741804f5d4280d6f507))
+* 数据集目录树根节点菜单显示异常问题修复 ([f58acba](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/f58acbaa9b9fa62ac8f5b81abbe519e57b80e8c5))
+* 同环比监听时间字段逻辑优化 ([22b160d](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/22b160daaac4d9071d44d56a6d40eb735d2425a3))
+* 文案问题修改 ([5dc36c2](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/5dc36c28c3a243a80b41b88e8d40b15e19e608de))
+* 修复高级计算布局问题 ([31c451c](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/31c451c3d7574590dcba71547dddce135584fb18))
+* 修复位置不能对齐的问题 ([c9be7ab](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/c9be7abafbcd387617e38af1b6b5b530a0bc561d))
+* 修复traceID 展示错误问题 ([6405e6b](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/6405e6b20b62f128ffb6e71f876961b77fe90a78))
+* lint ([93a80f0](https://code.devops.xiaohongshu.com/fe/fe-red-bi/commit/93a80f0a155fdbc11727499ad7d2abd95314ffa1))
