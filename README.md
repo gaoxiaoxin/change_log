@@ -7,7 +7,7 @@
 ###### 步骤一
 
 将要转化的日志放在 changeStart.txt 文件中
-![](./img/step1.png);
+![](./img/step1.png)
 
 ##### 步骤二
 
