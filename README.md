@@ -16,4 +16,4 @@
 ##### 步骤三
 
 然后就可以去 changeEnd.txt 文件中找到输出的日志
-![](./img/step2.png);
+![](./img/step2.png)
